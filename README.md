@@ -1,128 +1,21 @@
-<h3>Hello there 👋</h3>
+### Hello there 👋
 
-<p>
-  My name is Mateusz and I am self taught web developer from Poland. For the
-  past years I have been working and educating myself about frontend
-  technologies (<strong>React</strong>/<strong>Angular</strong>). Currently I am
-  exploring backend world, focusing mainly on
-  <strong>Java</strong>/<strong>Spring</strong>/<strong
-    >Domain Driven Design</strong
-  >/<strong>CQRS</strong>/<strong>Event Driven Architecture</strong>.
-</p>
+My name is Mateusz and I am self taught web developer from Poland. For the past years I have been working and educating myself about frontend technologies (**React**/**Angular**). Currently I am exploring backend world, focusing mainly on **Java**/**Spring**/**Domain Driven Design**/**CQRS**/**Event Driven Architecture**.
 
-<h4>Current skills</h4>
-<ul>
-  <li>
-    Frontend:
-    <a href="https://reactjs.org/" target="_blank">
-      <img
-        alt="React"
-        title="React"
-        src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"
-      />
-    </a>
+#### Current skills
 
-    <a href="https://nextjs.org/" target="_blank">
-      <img
-        alt="Next js"
-        title="Next js"
-        src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white"
-      />
-    </a>
+###### Frontend
 
-    <a href="https://redux.js.org/" target="_blank">
-      <img
-        alt="Redux"
-        title="Redux"
-        src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white"
-      />
-    </a>
+[![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white "React")](https://reactjs.org/)[![Next js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white "Next js") ](https://nextjs.org/)[![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white "Redux") ](https://redux.js.org/)[![React Query](https://img.shields.io/badge/-ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white "React Query") ](https://react-query.tanstack.com/)[![Angular](https://img.shields.io/badge/-Angular-b5022a?style=flat-square&logo=angular&logoColor=white "Angular") ](https://angular.io/)[![NgRx](https://img.shields.io/badge/-NgRx-B7178C?style=flat-square&logo=reactiveX&logoColor=white "NgRx") ](https://ngrx.io/)[![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactiveX&logoColor=white "RxJS") ](https://rxjs.dev/)[![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white "Typescript")](https://www.typescriptlang.org/)
 
-    <a href="https://react-query.tanstack.com/" target="_blank">
-      <img
-        alt="React Query"
-        title="React Query"
-        src="https://img.shields.io/badge/-React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"
-      />
-    </a>
+###### Backend
 
-    <a href="https://angular.io/" target="_blank">
-      <img
-        alt="Angular"
-        title="Angular"
-        src="https://img.shields.io/badge/-Angular-b5022a?style=flat-square&logo=angular&logoColor=white"
-      />
-    </a>
+[![Java](https://img.shields.io/badge/-Java-FF4785?style=flat-square&logo=java&logoColor=white "Java")](https://www.java.com/en/)[![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white "Spring") ](https://spring.io/)[![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white "Hibernate")](https://hibernate.org/)
 
-    <a href="https://ngrx.io/" target="_blank">
-      <img
-        alt="NgRx"
-        title="NgRx"
-        src="https://img.shields.io/badge/-NgRx-B7178C?style=flat-square&logo=reactiveX&logoColor=white"
-      />
-    </a>
+###### Devops
 
-    <a href="https://rxjs.dev/" target="_blank">
-      <img
-        alt="RxJS"
-        title="RxJS"
-        src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactiveX&logoColor=white"
-      />
-    </a>
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white "Docker")](https://www.docker.com/)
 
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img
-        alt="Typescript"
-        title="Typescript"
-        src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"
-      />
-    </a>
-  </li>
-  <li>
-    Backend:
-    <a href="https://www.java.com/en/" target="_blank">
-      <img
-        alt="Java"
-        title="Java"
-        src="https://img.shields.io/badge/-Java-FF4785?style=flat-square&logo=java&logoColor=white"
-      />
-    </a>
+#### I am also available on
 
-    <a href="https://spring.io/" target="_blank">
-      <img
-        alt="Spring"
-        title="Spring"
-        src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"
-      />
-    </a>
-
-    <a href="https://hibernate.org/" target="_blank">
-      <img
-        alt="Hibernate"
-        title="Hibernate"
-        src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"
-      />
-    </a>
-  </li>
-  <li>
-    Devops:
-    <a href="https://www.docker.com/" target="_blank">
-      <img
-        alt="Docker"
-        title="Docker"
-        src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"
-      />
-    </a>
-  </li>
-</ul>
-
-<h4>You can also find me here</h4>
-<ul>
-  <li>
-    <a
-      href="https://www.linkedin.com/in/mateusz-ziomek-5348681aa/?original_referer"
-    >
-      LinkedIn
-    </a>
-  </li>
-</ul>
+- [LinkedIn](https://www.linkedin.com/in/mateusz-ziomek-5348681aa/?original_referer)
